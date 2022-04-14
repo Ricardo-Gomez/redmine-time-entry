@@ -1,6 +1,8 @@
 ## Description
 Small script to create time entries on Redmine, it only logs for weekdays when there are not entries logged already.
 
+**NOTE**: it only works for MacOS, modifications are needed to be compatible with linux due to the `date` command
+
 ## Setup
 - add execute permission
 ```shell
